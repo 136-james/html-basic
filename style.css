@@ -1,0 +1,57 @@
+body{
+	background-color: rgb(37, 136, 202);
+
+	font-style: initial;
+	color: rgb(0, 0, 0);
+	line-height: 1.5;
+
+
+}
+
+h1 {
+	border-style: groove;
+	border-width: 30px;
+	border-color: #077F92
+
+
+	margin-right: 1619px;
+
+}
+h2 {
+	border-style: solid;
+	border-width: 15px;
+	border-color: #077F92
+}
+
+.first {
+	background-color: chartreuse;
+
+}
+
+
+
+
+h3 {
+	border-style: dashed;
+	border-width: 7px;
+	border-color:#73D6F5 ;
+}
+
+
+p {
+	border-style: dashed;
+	border-width: 5px;
+	border-color: aquamarine;
+}
+
+
+/* id selector */
+#myList{
+	border-style: solid;
+	border-width: 6.7px;
+	border-color: rgb(20, 173, 220);
+
+	background-color: rgb(255, 0, 157);
+	width: 600px;
+	margin: auto;
+}
